@@ -1,9 +1,3 @@
-I'll extract the necessary information from your Jupyter Notebook to create the README file. I'll get started on that now.
-
-Based on the content of your Jupyter Notebook, here’s a draft for the README file:
-
----
-
 # Video Predictor Using SAM 2
 
 This project uses Facebook's Segment Anything Model (SAM) to perform video segmentation. The process involves mounting a Google Drive, setting up the environment, and executing the model on video frames to predict and segment objects.
